@@ -1,0 +1,190 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+.total
+{
+    background-color: black;
+    width: 100%;
+    height: 819px;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+  
+}
+
+.top
+{
+    background-color: burlywood;
+    width: 100%;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.h1
+{
+
+    color: black;
+    display: flex;
+
+}
+
+.container
+{
+    width: 100%;
+    height: 819px;
+    background-color: #808080;
+    display: flex;
+}
+.central
+{
+    width: 50%;
+    height: 819px;
+    background-color: gray;
+    display: flex;
+    align-items: center;
+   justify-content: center;
+
+}
+.onibus
+{
+    display: flex;
+    width: 25%;
+    height: 650px;
+    background-color: cornsilk;
+    justify-content: space-around;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+
+}
+.cadeira
+{
+    display: flex;
+    flex-wrap: wrap;
+    width: 25%;
+    height: 600px;
+    background-color: cornsilk;
+    justify-content: space-around;
+    margin-top: 20%;
+    align-content: flex-start;
+}
+.as
+{
+    background-color: powderblue;
+    text-decoration: none;  
+    color: black;
+    display: flex;
+    width: 25px;
+    height: 35px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 25%;
+}
+.direita{
+    width: 50%;
+    height: 819px;
+    background-color: gray;
+    display: flex;
+    align-items: center;
+   justify-content: center;
+}
+@media(max-width: 769px){
+    *
+{
+    padding: 0;
+    margin: 0;
+}
+
+.total
+{
+    background-color: black;
+    width: 100%;
+    height: 819px;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+  
+}
+
+.top
+{
+    background-color: burlywood;
+    width: 100%;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.h1
+{
+
+    color: black;
+    display: flex;
+
+}
+
+.container
+{
+    width: 100%;
+    height: 819px;
+    background-color: #808080;
+    display: flex;
+}
+.central
+{
+    width: 50%;
+    height: 1519px;
+    background-color: gray;
+    display: flex;
+    align-items: center;
+   justify-content: center;
+
+}
+.onibus
+{
+    display: flex;
+    width: 25%;
+    height: 1020px;
+    background-color: cornsilk;
+    justify-content: space-around;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+
+}
+.cadeira
+{
+    display: flex;
+    flex-wrap: wrap;
+    width: 25%;
+    height: 1000px;
+    background-color: cornsilk;
+    justify-content: space-around;
+    margin-top: 20%;
+    align-content: flex-start;
+}
+.as
+{
+    background-color: powderblue;
+    text-decoration: none;  
+    color: black;
+    display: flex;
+    width: 25px;
+    height: 35px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 25%;
+}
+.direita{
+    width: 50%;
+    height: 1519px;
+    background-color: gray;
+    display: flex;
+    align-items: center;
+   justify-content: center;
+}
+}
